@@ -2,3 +2,4 @@ Feature 1
 Line 2
 learning merge
 thirsd stash
+local change
